@@ -8,6 +8,12 @@ GNV ART app brings public art to life with Augmented Reality (AR). Explore Gaine
 
 ---
 
+## **Video Preview**
+[![Watch Heavy Metal Gator in Action](https://img.youtube.com/vi/7ewU6RRDj-w/0.jpg)](https://youtube.com/shorts/7ewU6RRDj-w)
+
+
+---
+
 ## **How It Works**
 1. **Download the App**  
    - [Download Android APK](https://gnvart.app/apk/GNVArt.apk)
@@ -49,12 +55,6 @@ GNV ART app brings public art to life with Augmented Reality (AR). Explore Gaine
 </div>
 
 ---
-
-## **Video Preview**
-[Watch Heavy Metal Gator in Action](https://gnvart.app/wp-content/uploads/2024/04/Heavy-Metal-Gator-augmented-reality.mp4)
-
----
-
 
 
 ## **Website**
