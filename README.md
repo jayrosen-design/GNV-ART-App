@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/922352496.svg)](https://doi.org/10.5281/zenodo.14740834)
+
+
 <div align="center">
   <img src="https://github.com/jayrosen-design/GNV-ART-App/blob/main/gnv-art-images/snakofa-sq-copy.png" alt="GNV Art Logo" width="200">
 </div>
